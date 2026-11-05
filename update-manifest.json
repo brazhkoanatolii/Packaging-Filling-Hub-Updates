@@ -1,5 +1,5 @@
-﻿{
-    "packageUrl":  "https://raw.githubusercontent.com/brazhkoanatolii/Packaging-Filling-Hub-Updates/main/Packaging-Filling-Hub-0.9.296-Windows.zip",
-    "version":  "0.9.296",
-    "sha256":  "8D021EE4E3961BD6B98E087A817AF206CC64859639ED2B6DE4F67683F084FED8"
+{
+  "sha256": "4DA029223F1C7C15AECBEF08182DC715955796F992EF3555EDD5865EE94B71D6",
+  "packageUrl": "https://raw.githubusercontent.com/brazhkoanatolii/Packaging-Filling-Hub-Updates/main/Packaging-Filling-Hub-0.9.297-Windows.zip",
+  "version": "0.9.297"
 }
